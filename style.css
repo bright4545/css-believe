@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: x-large;
+}
+
+p {
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: x-large;
+}
+
+li {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: x-large;
+}
